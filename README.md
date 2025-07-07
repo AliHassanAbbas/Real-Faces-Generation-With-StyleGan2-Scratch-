@@ -15,7 +15,7 @@ Real-Faces-StyleGAN2/
 ├── utils/
 │   └── dataloader.py          # CelebA Dataset loader
 ├── train.py                   # Training script
-├── viewer.py                     # Streamlit app for face generation
+├── viewer.py                  # Streamlit app for face generation
 ├── requirements.txt           # Python dependencies
 └── README.md                  # This file
 ```
@@ -23,9 +23,19 @@ Real-Faces-StyleGAN2/
 ## 📥 Dataset
 This project uses the [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), containing **200,000+ real celebrity images**.
 
-Download and extract the dataset into:
+➡️ **Direct download link:** [Download CelebA images (Google Drive)](https://drive.google.com/file/d/1_ee_0u7vcNLOfNLegJRHmolfH5ICW-XS/view)
+
+After downloading, extract the `img_align_celeba.zip` archive into:
 ```
 datasets/celeba/
+```
+
+Your directory should look like this afterward:
+```
+datasets/celeba/
+├── 000001.jpg
+├── 000002.jpg
+├── ...
 ```
 
 ## 🚀 Usage
