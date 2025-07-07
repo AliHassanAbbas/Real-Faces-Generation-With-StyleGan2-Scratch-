@@ -23,7 +23,7 @@ Real-Faces-StyleGAN2/
 ## 📥 Dataset
 This project uses the [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), containing **200,000+ real celebrity images**.
 
-➡️ **Direct download link:** [Download CelebA images (Google Drive)](https://drive.google.com/file/d/1_ee_0u7vcNLOfNLegJRHmolfH5ICW-XS/view)
+➡️ **Direct download link:** [Download CelebA images (Google Drive)]([https://drive.google.com/file/d/1_ee_0u7vcNLOfNLegJRHmolfH5ICW-XS/view](https://drive.google.com/file/d/0B7EVK8r0v71pZjFTYXZWM3FlRnM/view?usp=sharing))
 
 After downloading, extract the `img_align_celeba.zip` archive into:
 ```
