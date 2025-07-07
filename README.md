@@ -42,7 +42,7 @@ python train.py
 
 3️⃣ **Launch the Streamlit app**
 ```
-streamlit run app.py
+streamlit run viewer.py
 ```
 
 Enjoy generating realistic faces! 🎨
